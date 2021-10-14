@@ -1,5 +1,6 @@
 # DaemonTest
 
+<pre>
 mkdir /root/commons-daemon
 
 cd /root/commons-daemon
@@ -12,3 +13,4 @@ support/buildconf.sh
 ./configure --with-java=/opt/jdk1.6.0_24/
 make
 mv jsvc /root/commons-daemon
+</pre>
