@@ -12,6 +12,3 @@ support/buildconf.sh
 ./configure --with-java=/opt/jdk1.6.0_24/
 make
 mv jsvc /root/commons-daemon
-
-
-출처: https://hmjkor.tistory.com/337 [개발이야기]
